@@ -48,9 +48,9 @@ client.whenEnemyInRange(attackNearEnemy);
 
 ## Battle Field
 
-The battle field has a size of 40 by 40 tiles, but the half of that is occupied by rocks. The zero coordinates are placed in the top corner. This image should help you to understand how axises are situated:
+The battle field has a size of 40 by 40 tiles, but the half of that is occupied by rocks. The zero coordinates are placed in the top corner. This image should help you to understand how axes are situated:
  
-![Map Axises](map.png)
+![Map Axes](../media/map.png)
 
 ## Items
 
